@@ -1,0 +1,14 @@
+{
+    "name": "zhangbo1888/composer_demo",
+    "description": "this is a test project",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "张",
+            "email": "zhangbo_3@126.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
